@@ -2,3 +2,12 @@ node_modules/
 .DS_Store
 *.log
 *.tmp
+
+# Development environment
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
